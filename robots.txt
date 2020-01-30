@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hohghietah.daology.org/sitemap.xml
